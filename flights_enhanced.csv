@@ -1,0 +1,1001 @@
+airline,source,destination,distance,departure_hour,weather,delay
+Air India,Pune,Bangalore,736,12,Rain,0
+SpiceJet,Hyderabad,Chennai,507,12,Fog,1
+Air India,Hyderabad,Kolkata,1207,4,Cloudy,0
+Air India,Chennai,Delhi,1760,7,Cloudy,1
+Air India,Delhi,Chennai,1760,12,Cloudy,0
+Indigo,Mumbai,Chennai,1033,12,Clear,1
+GoAir,Bangalore,Delhi,1732,20,Rain,0
+Air India,Bangalore,Mumbai,846,19,Fog,1
+GoAir,Mumbai,Chennai,1033,2,Fog,0
+SpiceJet,Mumbai,Bangalore,846,15,Cloudy,0
+Air India,Pune,Chennai,913,7,Cloudy,0
+SpiceJet,Pune,Delhi,1155,0,Clear,0
+Indigo,Pune,Bangalore,736,4,Fog,1
+SpiceJet,Delhi,Chennai,1760,4,Rain,1
+GoAir,Mumbai,Chennai,1033,4,Clear,1
+SpiceJet,Hyderabad,Bangalore,481,20,Fog,1
+Air India,Delhi,Mumbai,1136,4,Rain,0
+GoAir,Bangalore,Mumbai,846,22,Cloudy,0
+Air India,Kolkata,Delhi,1312,9,Clear,1
+Air India,Mumbai,Hyderabad,622,23,Cloudy,1
+Air India,Delhi,Bangalore,1732,0,Clear,0
+SpiceJet,Kolkata,Mumbai,1665,21,Rain,0
+GoAir,Delhi,Hyderabad,1266,1,Rain,0
+Indigo,Hyderabad,Bangalore,481,23,Fog,1
+Vistara,Pune,Delhi,1155,18,Clear,0
+Air India,Chennai,Pune,913,11,Cloudy,0
+Air India,Mumbai,Hyderabad,622,1,Clear,0
+Air India,Kolkata,Delhi,1312,22,Cloudy,0
+Air India,Chennai,Delhi,1760,9,Fog,1
+SpiceJet,Chennai,Hyderabad,507,22,Fog,0
+Air India,Mumbai,Chennai,1033,14,Rain,0
+Air India,Chennai,Pune,913,1,Clear,0
+Indigo,Mumbai,Chennai,1033,18,Rain,0
+Indigo,Pune,Bangalore,736,4,Clear,1
+GoAir,Bangalore,Mumbai,846,16,Rain,0
+GoAir,Pune,Delhi,1155,1,Clear,0
+Vistara,Mumbai,Bangalore,846,3,Clear,0
+Indigo,Delhi,Hyderabad,1266,18,Rain,0
+Indigo,Delhi,Mumbai,1136,10,Cloudy,0
+SpiceJet,Pune,Mumbai,124,21,Rain,0
+Vistara,Hyderabad,Delhi,1266,9,Clear,0
+Air India,Chennai,Mumbai,1033,21,Fog,0
+Indigo,Hyderabad,Kolkata,1207,7,Cloudy,0
+SpiceJet,Chennai,Kolkata,1385,0,Rain,1
+Indigo,Kolkata,Bangalore,1572,23,Cloudy,1
+Vistara,Mumbai,Delhi,1136,15,Rain,0
+SpiceJet,Pune,Mumbai,124,13,Rain,0
+Indigo,Mumbai,Pune,124,6,Cloudy,1
+SpiceJet,Pune,Bangalore,736,21,Clear,1
+Air India,Hyderabad,Kolkata,1207,6,Fog,0
+Indigo,Kolkata,Delhi,1312,19,Rain,0
+Indigo,Delhi,Pune,1155,12,Fog,0
+GoAir,Pune,Hyderabad,500,17,Rain,0
+GoAir,Hyderabad,Bangalore,481,18,Fog,0
+SpiceJet,Delhi,Pune,1155,6,Clear,0
+Indigo,Bangalore,Pune,736,21,Fog,0
+GoAir,Hyderabad,Delhi,1266,17,Cloudy,0
+Indigo,Kolkata,Bangalore,1572,1,Rain,0
+Indigo,Kolkata,Hyderabad,1207,7,Rain,1
+GoAir,Bangalore,Kolkata,1572,12,Cloudy,1
+Indigo,Mumbai,Delhi,1136,23,Cloudy,0
+SpiceJet,Chennai,Delhi,1760,21,Fog,1
+Vistara,Chennai,Hyderabad,507,2,Rain,0
+Air India,Delhi,Pune,1155,4,Rain,0
+Indigo,Pune,Delhi,1155,1,Rain,0
+Vistara,Hyderabad,Delhi,1266,3,Fog,0
+Air India,Chennai,Mumbai,1033,4,Clear,0
+GoAir,Delhi,Hyderabad,1266,13,Rain,1
+SpiceJet,Kolkata,Chennai,1385,23,Rain,0
+Vistara,Hyderabad,Bangalore,481,0,Clear,0
+SpiceJet,Mumbai,Pune,124,1,Fog,0
+Vistara,Bangalore,Pune,736,10,Cloudy,0
+Vistara,Kolkata,Bangalore,1572,7,Fog,0
+SpiceJet,Chennai,Hyderabad,507,10,Rain,0
+SpiceJet,Bangalore,Pune,736,3,Rain,1
+SpiceJet,Mumbai,Delhi,1136,1,Fog,1
+Air India,Delhi,Pune,1155,23,Cloudy,1
+Indigo,Chennai,Bangalore,279,15,Clear,0
+Vistara,Bangalore,Pune,736,0,Clear,0
+SpiceJet,Bangalore,Delhi,1732,7,Cloudy,0
+Indigo,Bangalore,Mumbai,846,14,Rain,1
+Vistara,Bangalore,Hyderabad,481,5,Clear,0
+Vistara,Delhi,Mumbai,1136,20,Clear,0
+Vistara,Pune,Delhi,1155,22,Fog,1
+SpiceJet,Kolkata,Delhi,1312,21,Clear,1
+Air India,Kolkata,Pune,1577,18,Cloudy,0
+SpiceJet,Mumbai,Pune,124,22,Rain,1
+Vistara,Chennai,Mumbai,1033,1,Rain,1
+Vistara,Delhi,Mumbai,1136,0,Cloudy,0
+Vistara,Bangalore,Mumbai,846,3,Rain,0
+Indigo,Pune,Delhi,1155,21,Clear,1
+GoAir,Kolkata,Chennai,1385,23,Clear,0
+SpiceJet,Mumbai,Delhi,1136,15,Cloudy,0
+GoAir,Bangalore,Pune,736,10,Cloudy,0
+Air India,Pune,Hyderabad,500,6,Fog,1
+GoAir,Pune,Mumbai,124,6,Clear,0
+Indigo,Pune,Chennai,913,6,Fog,0
+Air India,Hyderabad,Kolkata,1207,23,Fog,0
+Air India,Hyderabad,Mumbai,622,1,Fog,0
+Air India,Pune,Kolkata,1577,14,Rain,1
+Vistara,Delhi,Bangalore,1732,10,Clear,0
+Indigo,Bangalore,Kolkata,1572,6,Rain,0
+SpiceJet,Pune,Chennai,913,3,Fog,1
+Air India,Pune,Hyderabad,500,3,Clear,1
+SpiceJet,Bangalore,Pune,736,7,Clear,0
+Air India,Bangalore,Hyderabad,481,14,Cloudy,0
+Indigo,Hyderabad,Bangalore,481,5,Rain,0
+Air India,Delhi,Mumbai,1136,20,Rain,1
+Vistara,Bangalore,Mumbai,846,12,Fog,0
+SpiceJet,Hyderabad,Chennai,507,12,Fog,0
+Air India,Bangalore,Hyderabad,481,18,Clear,0
+Indigo,Mumbai,Delhi,1136,20,Cloudy,0
+Vistara,Delhi,Kolkata,1312,14,Fog,0
+Air India,Pune,Delhi,1155,10,Fog,0
+SpiceJet,Kolkata,Bangalore,1572,1,Cloudy,0
+Air India,Hyderabad,Pune,500,4,Clear,0
+Air India,Pune,Mumbai,124,11,Rain,1
+Air India,Chennai,Hyderabad,507,23,Clear,1
+Air India,Delhi,Mumbai,1136,3,Rain,1
+SpiceJet,Pune,Kolkata,1577,4,Rain,0
+SpiceJet,Delhi,Bangalore,1732,15,Clear,0
+SpiceJet,Mumbai,Hyderabad,622,9,Rain,1
+Vistara,Chennai,Mumbai,1033,9,Rain,1
+SpiceJet,Hyderabad,Delhi,1266,9,Cloudy,0
+GoAir,Chennai,Delhi,1760,1,Clear,0
+Indigo,Delhi,Bangalore,1732,14,Fog,1
+Vistara,Hyderabad,Bangalore,481,17,Fog,1
+Indigo,Chennai,Kolkata,1385,9,Rain,0
+Indigo,Chennai,Kolkata,1385,11,Cloudy,0
+Indigo,Bangalore,Chennai,279,6,Rain,0
+Vistara,Chennai,Bangalore,279,18,Cloudy,0
+Air India,Mumbai,Chennai,1033,20,Cloudy,1
+Vistara,Chennai,Kolkata,1385,18,Cloudy,0
+Air India,Hyderabad,Delhi,1266,2,Clear,0
+Air India,Mumbai,Chennai,1033,15,Cloudy,0
+GoAir,Delhi,Kolkata,1312,16,Fog,0
+Air India,Kolkata,Chennai,1385,18,Clear,0
+Air India,Kolkata,Hyderabad,1207,17,Fog,0
+SpiceJet,Delhi,Mumbai,1136,23,Clear,0
+SpiceJet,Bangalore,Kolkata,1572,17,Fog,0
+Air India,Pune,Bangalore,736,6,Clear,0
+Indigo,Hyderabad,Delhi,1266,20,Cloudy,0
+GoAir,Bangalore,Chennai,279,18,Rain,1
+Vistara,Chennai,Mumbai,1033,18,Fog,0
+SpiceJet,Chennai,Mumbai,1033,19,Cloudy,0
+Indigo,Hyderabad,Bangalore,481,10,Fog,0
+Indigo,Delhi,Bangalore,1732,4,Cloudy,0
+Indigo,Mumbai,Pune,124,14,Fog,1
+Vistara,Kolkata,Delhi,1312,15,Rain,0
+GoAir,Chennai,Bangalore,279,14,Fog,1
+SpiceJet,Kolkata,Delhi,1312,9,Cloudy,1
+GoAir,Delhi,Chennai,1760,18,Cloudy,0
+Indigo,Kolkata,Delhi,1312,3,Rain,1
+GoAir,Pune,Delhi,1155,10,Rain,1
+GoAir,Chennai,Kolkata,1385,19,Rain,1
+Air India,Chennai,Kolkata,1385,22,Rain,0
+Air India,Bangalore,Delhi,1732,4,Rain,0
+Air India,Delhi,Kolkata,1312,18,Fog,0
+Vistara,Kolkata,Mumbai,1665,9,Rain,0
+SpiceJet,Kolkata,Mumbai,1665,12,Cloudy,0
+Indigo,Hyderabad,Chennai,507,17,Cloudy,0
+Air India,Pune,Chennai,913,3,Clear,0
+Air India,Bangalore,Kolkata,1572,2,Cloudy,0
+Air India,Hyderabad,Kolkata,1207,23,Rain,1
+Air India,Bangalore,Delhi,1732,10,Clear,0
+Air India,Hyderabad,Delhi,1266,14,Clear,0
+GoAir,Chennai,Pune,913,5,Fog,0
+SpiceJet,Kolkata,Hyderabad,1207,11,Rain,0
+Air India,Hyderabad,Mumbai,622,6,Cloudy,0
+Air India,Mumbai,Bangalore,846,23,Rain,0
+Indigo,Mumbai,Bangalore,846,5,Cloudy,0
+Air India,Pune,Delhi,1155,5,Fog,0
+GoAir,Chennai,Kolkata,1385,7,Clear,0
+GoAir,Delhi,Bangalore,1732,17,Rain,0
+SpiceJet,Hyderabad,Pune,500,9,Clear,0
+SpiceJet,Mumbai,Hyderabad,622,14,Fog,0
+Air India,Bangalore,Chennai,279,13,Fog,0
+SpiceJet,Delhi,Mumbai,1136,22,Cloudy,1
+Vistara,Mumbai,Pune,124,19,Clear,0
+GoAir,Chennai,Pune,913,18,Rain,1
+GoAir,Mumbai,Bangalore,846,13,Cloudy,0
+Indigo,Mumbai,Delhi,1136,7,Cloudy,0
+SpiceJet,Bangalore,Mumbai,846,15,Fog,1
+GoAir,Mumbai,Bangalore,846,3,Fog,0
+Air India,Hyderabad,Bangalore,481,19,Cloudy,0
+Indigo,Pune,Mumbai,124,17,Rain,0
+SpiceJet,Bangalore,Kolkata,1572,0,Fog,0
+GoAir,Chennai,Kolkata,1385,17,Rain,1
+Air India,Mumbai,Bangalore,846,4,Fog,1
+GoAir,Hyderabad,Kolkata,1207,6,Rain,0
+Vistara,Bangalore,Chennai,279,22,Rain,0
+SpiceJet,Mumbai,Delhi,1136,12,Rain,1
+Vistara,Mumbai,Chennai,1033,13,Rain,1
+Vistara,Chennai,Hyderabad,507,19,Fog,0
+Vistara,Hyderabad,Kolkata,1207,22,Cloudy,1
+SpiceJet,Bangalore,Pune,736,16,Cloudy,0
+Indigo,Pune,Hyderabad,500,14,Fog,1
+GoAir,Pune,Mumbai,124,1,Cloudy,0
+Vistara,Bangalore,Mumbai,846,17,Rain,1
+GoAir,Mumbai,Chennai,1033,14,Fog,0
+Air India,Kolkata,Bangalore,1572,21,Fog,0
+Air India,Hyderabad,Bangalore,481,4,Cloudy,0
+Air India,Kolkata,Hyderabad,1207,22,Rain,1
+SpiceJet,Kolkata,Hyderabad,1207,10,Rain,0
+Air India,Chennai,Pune,913,20,Rain,1
+SpiceJet,Bangalore,Mumbai,846,3,Cloudy,0
+SpiceJet,Delhi,Mumbai,1136,22,Cloudy,0
+Indigo,Kolkata,Pune,1577,2,Fog,1
+GoAir,Hyderabad,Pune,500,12,Rain,1
+SpiceJet,Mumbai,Bangalore,846,0,Fog,0
+Air India,Chennai,Hyderabad,507,11,Rain,0
+Indigo,Mumbai,Bangalore,846,11,Clear,0
+Air India,Pune,Hyderabad,500,11,Cloudy,0
+Indigo,Delhi,Pune,1155,3,Cloudy,0
+SpiceJet,Delhi,Mumbai,1136,23,Fog,0
+SpiceJet,Bangalore,Chennai,279,10,Rain,1
+Air India,Hyderabad,Pune,500,6,Cloudy,0
+Air India,Bangalore,Pune,736,13,Fog,1
+Vistara,Bangalore,Mumbai,846,6,Cloudy,0
+Air India,Kolkata,Bangalore,1572,17,Rain,0
+GoAir,Pune,Mumbai,124,13,Cloudy,0
+GoAir,Delhi,Mumbai,1136,15,Fog,0
+Indigo,Pune,Hyderabad,500,21,Fog,0
+GoAir,Bangalore,Kolkata,1572,3,Clear,0
+Vistara,Hyderabad,Mumbai,622,6,Cloudy,0
+Air India,Delhi,Hyderabad,1266,15,Fog,1
+GoAir,Delhi,Pune,1155,14,Clear,0
+GoAir,Delhi,Kolkata,1312,16,Clear,0
+Air India,Hyderabad,Mumbai,622,4,Fog,1
+SpiceJet,Pune,Bangalore,736,10,Cloudy,0
+Air India,Delhi,Hyderabad,1266,12,Clear,0
+GoAir,Kolkata,Bangalore,1572,13,Fog,0
+Air India,Kolkata,Pune,1577,21,Cloudy,1
+SpiceJet,Bangalore,Delhi,1732,15,Clear,0
+Indigo,Hyderabad,Chennai,507,14,Fog,1
+Air India,Delhi,Mumbai,1136,9,Clear,0
+Air India,Kolkata,Delhi,1312,18,Clear,0
+Indigo,Kolkata,Bangalore,1572,7,Fog,0
+Air India,Hyderabad,Chennai,507,23,Fog,1
+Indigo,Mumbai,Pune,124,18,Fog,1
+GoAir,Hyderabad,Kolkata,1207,13,Rain,0
+Indigo,Delhi,Pune,1155,23,Clear,1
+SpiceJet,Delhi,Pune,1155,6,Fog,0
+SpiceJet,Kolkata,Hyderabad,1207,17,Clear,0
+Vistara,Kolkata,Chennai,1385,7,Rain,0
+Vistara,Delhi,Chennai,1760,19,Clear,0
+Air India,Kolkata,Delhi,1312,20,Fog,1
+Vistara,Bangalore,Hyderabad,481,5,Rain,1
+GoAir,Hyderabad,Kolkata,1207,6,Clear,0
+Indigo,Mumbai,Chennai,1033,17,Cloudy,0
+Indigo,Kolkata,Delhi,1312,15,Rain,0
+SpiceJet,Bangalore,Chennai,279,16,Rain,0
+SpiceJet,Pune,Delhi,1155,17,Cloudy,0
+Indigo,Bangalore,Delhi,1732,21,Fog,0
+GoAir,Mumbai,Hyderabad,622,18,Clear,0
+Vistara,Kolkata,Mumbai,1665,0,Cloudy,0
+Vistara,Kolkata,Mumbai,1665,11,Rain,1
+GoAir,Pune,Hyderabad,500,14,Clear,0
+Air India,Chennai,Bangalore,279,10,Clear,0
+Indigo,Mumbai,Pune,124,19,Rain,0
+GoAir,Kolkata,Bangalore,1572,5,Fog,0
+Indigo,Bangalore,Mumbai,846,20,Clear,0
+Vistara,Hyderabad,Delhi,1266,1,Rain,0
+Air India,Bangalore,Mumbai,846,16,Fog,1
+GoAir,Kolkata,Bangalore,1572,6,Rain,0
+Air India,Pune,Bangalore,736,21,Fog,1
+Indigo,Chennai,Hyderabad,507,5,Cloudy,0
+SpiceJet,Mumbai,Pune,124,20,Fog,1
+Vistara,Hyderabad,Chennai,507,9,Rain,0
+SpiceJet,Chennai,Mumbai,1033,6,Fog,1
+Air India,Mumbai,Hyderabad,622,22,Rain,1
+SpiceJet,Hyderabad,Kolkata,1207,19,Rain,0
+GoAir,Hyderabad,Pune,500,21,Rain,0
+Indigo,Hyderabad,Pune,500,0,Rain,0
+GoAir,Delhi,Bangalore,1732,9,Rain,0
+SpiceJet,Kolkata,Delhi,1312,10,Clear,0
+Air India,Mumbai,Chennai,1033,17,Clear,0
+GoAir,Hyderabad,Kolkata,1207,14,Rain,0
+Vistara,Mumbai,Pune,124,2,Cloudy,0
+Vistara,Hyderabad,Kolkata,1207,13,Fog,0
+Vistara,Bangalore,Delhi,1732,21,Fog,1
+GoAir,Mumbai,Bangalore,846,16,Fog,1
+GoAir,Pune,Kolkata,1577,14,Rain,0
+Air India,Mumbai,Pune,124,16,Clear,0
+Air India,Mumbai,Chennai,1033,12,Cloudy,0
+Air India,Hyderabad,Mumbai,622,18,Fog,1
+Vistara,Chennai,Pune,913,14,Rain,1
+GoAir,Pune,Kolkata,1577,0,Fog,1
+Air India,Kolkata,Bangalore,1572,7,Clear,0
+GoAir,Pune,Chennai,913,8,Clear,0
+Vistara,Chennai,Mumbai,1033,15,Fog,0
+SpiceJet,Kolkata,Mumbai,1665,23,Rain,1
+Vistara,Pune,Hyderabad,500,11,Fog,1
+Indigo,Kolkata,Mumbai,1665,16,Fog,0
+SpiceJet,Kolkata,Chennai,1385,16,Cloudy,0
+SpiceJet,Hyderabad,Mumbai,622,12,Fog,1
+Air India,Bangalore,Kolkata,1572,18,Rain,0
+SpiceJet,Pune,Delhi,1155,7,Rain,1
+SpiceJet,Pune,Mumbai,124,18,Fog,1
+Indigo,Bangalore,Delhi,1732,13,Cloudy,0
+Indigo,Pune,Chennai,913,16,Rain,1
+Indigo,Bangalore,Delhi,1732,20,Rain,1
+Indigo,Chennai,Mumbai,1033,22,Cloudy,0
+SpiceJet,Delhi,Bangalore,1732,15,Clear,0
+SpiceJet,Chennai,Pune,913,17,Clear,0
+GoAir,Bangalore,Kolkata,1572,0,Fog,0
+SpiceJet,Mumbai,Chennai,1033,13,Fog,0
+GoAir,Kolkata,Delhi,1312,12,Clear,0
+SpiceJet,Chennai,Hyderabad,507,18,Cloudy,0
+Indigo,Delhi,Hyderabad,1266,4,Clear,0
+SpiceJet,Chennai,Pune,913,14,Fog,1
+Vistara,Delhi,Bangalore,1732,15,Cloudy,0
+GoAir,Chennai,Hyderabad,507,20,Rain,0
+GoAir,Delhi,Mumbai,1136,17,Clear,1
+Vistara,Kolkata,Mumbai,1665,5,Cloudy,0
+Vistara,Chennai,Mumbai,1033,4,Fog,1
+Vistara,Pune,Delhi,1155,17,Rain,0
+GoAir,Chennai,Mumbai,1033,14,Fog,1
+Air India,Pune,Bangalore,736,15,Cloudy,0
+Vistara,Mumbai,Delhi,1136,22,Rain,1
+Indigo,Hyderabad,Kolkata,1207,5,Cloudy,0
+Indigo,Bangalore,Delhi,1732,11,Rain,1
+SpiceJet,Hyderabad,Chennai,507,19,Rain,0
+Indigo,Pune,Chennai,913,16,Clear,0
+Indigo,Kolkata,Mumbai,1665,12,Fog,1
+GoAir,Chennai,Pune,913,7,Cloudy,0
+SpiceJet,Chennai,Pune,913,13,Rain,0
+Air India,Kolkata,Hyderabad,1207,0,Rain,0
+GoAir,Kolkata,Delhi,1312,13,Clear,0
+SpiceJet,Bangalore,Hyderabad,481,6,Cloudy,0
+Vistara,Pune,Hyderabad,500,13,Rain,0
+Indigo,Chennai,Mumbai,1033,7,Cloudy,0
+GoAir,Mumbai,Hyderabad,622,17,Clear,0
+Indigo,Bangalore,Mumbai,846,2,Clear,0
+SpiceJet,Delhi,Bangalore,1732,17,Fog,0
+Air India,Bangalore,Delhi,1732,0,Cloudy,0
+Air India,Bangalore,Delhi,1732,19,Cloudy,0
+Indigo,Chennai,Bangalore,279,19,Rain,0
+Air India,Kolkata,Chennai,1385,4,Fog,0
+SpiceJet,Delhi,Pune,1155,13,Fog,0
+GoAir,Hyderabad,Pune,500,8,Clear,0
+SpiceJet,Delhi,Mumbai,1136,11,Clear,0
+Indigo,Mumbai,Hyderabad,622,2,Rain,1
+SpiceJet,Pune,Delhi,1155,8,Cloudy,0
+Indigo,Bangalore,Hyderabad,481,21,Rain,1
+SpiceJet,Pune,Chennai,913,1,Rain,1
+Vistara,Pune,Kolkata,1577,7,Clear,0
+SpiceJet,Chennai,Bangalore,279,18,Fog,0
+GoAir,Hyderabad,Mumbai,622,13,Fog,0
+Indigo,Pune,Delhi,1155,4,Cloudy,1
+SpiceJet,Kolkata,Mumbai,1665,0,Cloudy,0
+SpiceJet,Bangalore,Kolkata,1572,11,Clear,0
+Vistara,Mumbai,Hyderabad,622,18,Fog,0
+Vistara,Chennai,Pune,913,13,Fog,0
+GoAir,Chennai,Mumbai,1033,20,Clear,0
+GoAir,Bangalore,Chennai,279,21,Fog,1
+Vistara,Delhi,Bangalore,1732,19,Cloudy,0
+SpiceJet,Bangalore,Kolkata,1572,2,Clear,0
+SpiceJet,Mumbai,Bangalore,846,6,Cloudy,0
+GoAir,Bangalore,Delhi,1732,6,Fog,1
+Vistara,Chennai,Delhi,1760,9,Rain,0
+Air India,Mumbai,Pune,124,23,Clear,1
+Indigo,Bangalore,Delhi,1732,14,Clear,0
+Indigo,Hyderabad,Bangalore,481,18,Cloudy,0
+GoAir,Hyderabad,Mumbai,622,5,Clear,0
+Air India,Bangalore,Pune,736,14,Rain,1
+Indigo,Hyderabad,Chennai,507,15,Fog,1
+Vistara,Pune,Bangalore,736,9,Fog,0
+Air India,Pune,Chennai,913,22,Rain,0
+Vistara,Chennai,Delhi,1760,4,Cloudy,0
+GoAir,Bangalore,Pune,736,23,Clear,0
+SpiceJet,Delhi,Hyderabad,1266,6,Rain,0
+Vistara,Kolkata,Chennai,1385,5,Fog,0
+SpiceJet,Kolkata,Hyderabad,1207,19,Fog,0
+Indigo,Delhi,Kolkata,1312,2,Rain,1
+Indigo,Delhi,Kolkata,1312,7,Fog,0
+Indigo,Delhi,Hyderabad,1266,5,Clear,1
+SpiceJet,Kolkata,Bangalore,1572,11,Fog,0
+GoAir,Chennai,Bangalore,279,17,Rain,1
+Vistara,Bangalore,Hyderabad,481,6,Cloudy,0
+Air India,Hyderabad,Kolkata,1207,13,Fog,0
+GoAir,Chennai,Bangalore,279,7,Clear,1
+SpiceJet,Pune,Kolkata,1577,23,Clear,0
+GoAir,Chennai,Mumbai,1033,3,Clear,1
+SpiceJet,Kolkata,Chennai,1385,20,Rain,0
+GoAir,Bangalore,Chennai,279,16,Rain,0
+Vistara,Delhi,Bangalore,1732,9,Rain,0
+GoAir,Pune,Kolkata,1577,22,Clear,1
+GoAir,Pune,Delhi,1155,11,Fog,0
+Vistara,Chennai,Hyderabad,507,11,Rain,0
+Air India,Delhi,Hyderabad,1266,11,Fog,0
+SpiceJet,Kolkata,Bangalore,1572,11,Cloudy,0
+Vistara,Chennai,Hyderabad,507,12,Rain,0
+GoAir,Chennai,Bangalore,279,23,Clear,0
+Indigo,Mumbai,Hyderabad,622,18,Rain,0
+Air India,Pune,Hyderabad,500,8,Cloudy,0
+GoAir,Kolkata,Mumbai,1665,16,Cloudy,0
+Air India,Bangalore,Mumbai,846,7,Cloudy,0
+SpiceJet,Bangalore,Delhi,1732,4,Cloudy,0
+Indigo,Delhi,Hyderabad,1266,18,Fog,0
+SpiceJet,Delhi,Pune,1155,19,Clear,0
+GoAir,Delhi,Chennai,1760,14,Rain,0
+Vistara,Delhi,Chennai,1760,3,Clear,0
+Air India,Kolkata,Delhi,1312,20,Clear,0
+GoAir,Chennai,Delhi,1760,19,Rain,0
+Vistara,Hyderabad,Mumbai,622,22,Fog,1
+Air India,Pune,Mumbai,124,21,Clear,0
+Indigo,Delhi,Chennai,1760,19,Fog,0
+GoAir,Kolkata,Delhi,1312,4,Fog,0
+GoAir,Mumbai,Delhi,1136,22,Clear,1
+Vistara,Hyderabad,Delhi,1266,3,Clear,0
+GoAir,Pune,Mumbai,124,9,Cloudy,0
+Indigo,Hyderabad,Delhi,1266,4,Fog,0
+Air India,Kolkata,Hyderabad,1207,11,Clear,0
+Indigo,Kolkata,Pune,1577,12,Clear,0
+GoAir,Delhi,Mumbai,1136,8,Cloudy,0
+Air India,Delhi,Kolkata,1312,20,Cloudy,0
+Vistara,Mumbai,Pune,124,0,Cloudy,0
+Air India,Mumbai,Chennai,1033,5,Clear,1
+Air India,Chennai,Delhi,1760,14,Fog,0
+Indigo,Pune,Bangalore,736,22,Cloudy,1
+SpiceJet,Chennai,Bangalore,279,6,Fog,0
+Air India,Pune,Mumbai,124,4,Fog,1
+Vistara,Kolkata,Chennai,1385,15,Fog,0
+Indigo,Pune,Hyderabad,500,1,Rain,0
+Indigo,Kolkata,Chennai,1385,1,Rain,1
+SpiceJet,Bangalore,Hyderabad,481,14,Cloudy,0
+Vistara,Pune,Delhi,1155,20,Cloudy,0
+Vistara,Pune,Bangalore,736,1,Rain,0
+Indigo,Mumbai,Delhi,1136,11,Fog,0
+SpiceJet,Mumbai,Delhi,1136,7,Fog,0
+Indigo,Mumbai,Delhi,1136,10,Cloudy,0
+Air India,Delhi,Pune,1155,13,Cloudy,0
+Indigo,Mumbai,Kolkata,1665,21,Rain,0
+GoAir,Bangalore,Chennai,279,9,Rain,0
+SpiceJet,Hyderabad,Bangalore,481,10,Fog,1
+GoAir,Kolkata,Hyderabad,1207,1,Clear,0
+Vistara,Hyderabad,Bangalore,481,4,Clear,0
+SpiceJet,Kolkata,Mumbai,1665,22,Clear,0
+GoAir,Kolkata,Bangalore,1572,7,Cloudy,0
+Indigo,Chennai,Bangalore,279,16,Fog,0
+Vistara,Mumbai,Bangalore,846,1,Cloudy,0
+GoAir,Delhi,Bangalore,1732,0,Fog,1
+SpiceJet,Delhi,Mumbai,1136,1,Rain,0
+Vistara,Kolkata,Hyderabad,1207,13,Rain,0
+Air India,Mumbai,Hyderabad,622,12,Fog,1
+Vistara,Delhi,Hyderabad,1266,22,Cloudy,1
+Air India,Kolkata,Pune,1577,2,Cloudy,0
+Indigo,Chennai,Mumbai,1033,1,Fog,1
+Indigo,Bangalore,Hyderabad,481,10,Cloudy,1
+Indigo,Pune,Mumbai,124,8,Clear,1
+Vistara,Pune,Chennai,913,21,Fog,0
+SpiceJet,Kolkata,Mumbai,1665,19,Clear,1
+Indigo,Chennai,Kolkata,1385,18,Rain,1
+Indigo,Pune,Mumbai,124,6,Fog,0
+SpiceJet,Kolkata,Hyderabad,1207,1,Rain,0
+GoAir,Pune,Delhi,1155,15,Rain,0
+SpiceJet,Chennai,Kolkata,1385,5,Cloudy,0
+GoAir,Delhi,Hyderabad,1266,14,Cloudy,0
+Indigo,Chennai,Kolkata,1385,2,Rain,0
+GoAir,Hyderabad,Bangalore,481,23,Clear,1
+GoAir,Pune,Bangalore,736,4,Fog,0
+GoAir,Hyderabad,Delhi,1266,21,Rain,0
+SpiceJet,Hyderabad,Bangalore,481,23,Cloudy,0
+Air India,Hyderabad,Bangalore,481,17,Cloudy,0
+Vistara,Pune,Mumbai,124,4,Fog,0
+Air India,Chennai,Kolkata,1385,19,Fog,0
+GoAir,Kolkata,Pune,1577,3,Cloudy,0
+Air India,Bangalore,Hyderabad,481,11,Rain,1
+Indigo,Mumbai,Pune,124,18,Fog,1
+SpiceJet,Pune,Delhi,1155,22,Fog,0
+GoAir,Delhi,Hyderabad,1266,5,Clear,0
+Vistara,Hyderabad,Bangalore,481,21,Rain,0
+Vistara,Chennai,Bangalore,279,19,Rain,0
+GoAir,Chennai,Pune,913,14,Rain,0
+GoAir,Hyderabad,Delhi,1266,2,Clear,0
+Air India,Mumbai,Pune,124,19,Rain,0
+GoAir,Mumbai,Delhi,1136,3,Clear,0
+SpiceJet,Delhi,Bangalore,1732,4,Clear,0
+SpiceJet,Mumbai,Pune,124,1,Fog,0
+Indigo,Bangalore,Pune,736,21,Clear,0
+Vistara,Kolkata,Pune,1577,2,Fog,0
+Vistara,Kolkata,Pune,1577,20,Fog,0
+GoAir,Chennai,Hyderabad,507,5,Rain,0
+Vistara,Kolkata,Chennai,1385,16,Fog,0
+SpiceJet,Pune,Chennai,913,1,Cloudy,0
+SpiceJet,Bangalore,Hyderabad,481,23,Clear,1
+Vistara,Chennai,Bangalore,279,3,Clear,0
+Air India,Bangalore,Hyderabad,481,20,Cloudy,0
+Vistara,Chennai,Bangalore,279,4,Cloudy,0
+SpiceJet,Delhi,Chennai,1760,16,Rain,0
+Vistara,Pune,Chennai,913,3,Rain,1
+GoAir,Delhi,Kolkata,1312,10,Fog,1
+GoAir,Kolkata,Bangalore,1572,21,Rain,0
+GoAir,Hyderabad,Delhi,1266,5,Cloudy,0
+Vistara,Chennai,Kolkata,1385,16,Clear,0
+GoAir,Kolkata,Chennai,1385,5,Cloudy,0
+Indigo,Bangalore,Mumbai,846,23,Fog,0
+SpiceJet,Pune,Chennai,913,1,Fog,0
+Air India,Chennai,Kolkata,1385,5,Clear,1
+Indigo,Hyderabad,Delhi,1266,14,Fog,0
+Indigo,Kolkata,Bangalore,1572,12,Clear,0
+Air India,Chennai,Kolkata,1385,10,Clear,0
+GoAir,Chennai,Delhi,1760,16,Clear,0
+Indigo,Hyderabad,Mumbai,622,11,Fog,1
+SpiceJet,Pune,Chennai,913,10,Cloudy,0
+Vistara,Chennai,Pune,913,20,Fog,0
+Vistara,Delhi,Kolkata,1312,7,Cloudy,1
+SpiceJet,Chennai,Mumbai,1033,4,Clear,0
+SpiceJet,Chennai,Delhi,1760,20,Rain,1
+Indigo,Kolkata,Chennai,1385,10,Cloudy,0
+Air India,Chennai,Bangalore,279,5,Cloudy,0
+Vistara,Kolkata,Hyderabad,1207,14,Cloudy,0
+GoAir,Bangalore,Pune,736,20,Rain,1
+SpiceJet,Kolkata,Hyderabad,1207,22,Clear,0
+SpiceJet,Pune,Hyderabad,500,3,Fog,1
+Indigo,Mumbai,Chennai,1033,3,Rain,1
+GoAir,Mumbai,Pune,124,9,Clear,0
+Vistara,Delhi,Mumbai,1136,22,Clear,0
+Indigo,Chennai,Pune,913,8,Clear,0
+GoAir,Pune,Chennai,913,21,Clear,1
+SpiceJet,Chennai,Pune,913,15,Clear,0
+GoAir,Delhi,Mumbai,1136,13,Rain,0
+Air India,Kolkata,Delhi,1312,6,Clear,1
+SpiceJet,Kolkata,Delhi,1312,16,Rain,0
+GoAir,Chennai,Hyderabad,507,0,Rain,0
+Vistara,Bangalore,Pune,736,1,Cloudy,0
+GoAir,Pune,Chennai,913,6,Clear,0
+Air India,Delhi,Chennai,1760,12,Fog,1
+Indigo,Mumbai,Chennai,1033,0,Clear,0
+GoAir,Mumbai,Chennai,1033,4,Cloudy,0
+Air India,Kolkata,Mumbai,1665,8,Clear,0
+Air India,Bangalore,Hyderabad,481,2,Rain,0
+GoAir,Delhi,Mumbai,1136,11,Fog,0
+GoAir,Hyderabad,Pune,500,22,Rain,1
+GoAir,Mumbai,Hyderabad,622,12,Fog,0
+Indigo,Delhi,Kolkata,1312,18,Rain,0
+Vistara,Bangalore,Delhi,1732,6,Cloudy,0
+Indigo,Delhi,Bangalore,1732,1,Clear,0
+SpiceJet,Delhi,Mumbai,1136,16,Clear,1
+SpiceJet,Mumbai,Pune,124,22,Cloudy,0
+Indigo,Hyderabad,Delhi,1266,3,Rain,1
+Air India,Bangalore,Kolkata,1572,13,Cloudy,0
+GoAir,Chennai,Kolkata,1385,14,Rain,1
+Vistara,Mumbai,Delhi,1136,6,Fog,1
+GoAir,Kolkata,Delhi,1312,2,Cloudy,0
+SpiceJet,Hyderabad,Pune,500,5,Clear,1
+Indigo,Delhi,Pune,1155,23,Rain,0
+SpiceJet,Kolkata,Delhi,1312,18,Clear,0
+GoAir,Delhi,Mumbai,1136,0,Cloudy,0
+GoAir,Hyderabad,Delhi,1266,22,Rain,0
+Air India,Bangalore,Hyderabad,481,12,Fog,1
+GoAir,Chennai,Pune,913,15,Fog,0
+Air India,Kolkata,Mumbai,1665,19,Rain,0
+Indigo,Delhi,Hyderabad,1266,22,Rain,0
+SpiceJet,Kolkata,Chennai,1385,13,Clear,1
+SpiceJet,Delhi,Bangalore,1732,2,Fog,0
+Air India,Delhi,Kolkata,1312,13,Rain,0
+Vistara,Bangalore,Mumbai,846,11,Cloudy,0
+Vistara,Mumbai,Hyderabad,622,13,Clear,0
+Air India,Mumbai,Bangalore,846,22,Cloudy,0
+SpiceJet,Delhi,Chennai,1760,3,Fog,1
+SpiceJet,Pune,Kolkata,1577,2,Fog,0
+Vistara,Kolkata,Pune,1577,0,Cloudy,0
+Air India,Delhi,Mumbai,1136,1,Fog,0
+Indigo,Hyderabad,Chennai,507,14,Fog,0
+SpiceJet,Chennai,Pune,913,11,Rain,1
+Air India,Mumbai,Chennai,1033,13,Rain,0
+GoAir,Chennai,Mumbai,1033,2,Fog,0
+Vistara,Hyderabad,Pune,500,4,Cloudy,0
+Indigo,Mumbai,Pune,124,11,Cloudy,0
+Vistara,Bangalore,Kolkata,1572,22,Cloudy,1
+GoAir,Pune,Bangalore,736,16,Rain,1
+Vistara,Kolkata,Hyderabad,1207,23,Cloudy,0
+Indigo,Kolkata,Pune,1577,21,Clear,0
+Air India,Hyderabad,Chennai,507,6,Cloudy,0
+Vistara,Chennai,Hyderabad,507,22,Cloudy,0
+Indigo,Chennai,Hyderabad,507,9,Fog,0
+SpiceJet,Mumbai,Delhi,1136,21,Rain,0
+Indigo,Bangalore,Mumbai,846,10,Cloudy,0
+Vistara,Chennai,Pune,913,7,Rain,0
+Vistara,Hyderabad,Bangalore,481,9,Fog,0
+Air India,Bangalore,Hyderabad,481,16,Fog,1
+SpiceJet,Pune,Mumbai,124,18,Cloudy,0
+Air India,Delhi,Hyderabad,1266,1,Fog,1
+Air India,Bangalore,Kolkata,1572,23,Cloudy,0
+GoAir,Hyderabad,Kolkata,1207,11,Clear,0
+SpiceJet,Chennai,Hyderabad,507,14,Clear,0
+Indigo,Hyderabad,Kolkata,1207,14,Rain,0
+Vistara,Hyderabad,Mumbai,622,22,Fog,0
+GoAir,Mumbai,Bangalore,846,3,Clear,0
+GoAir,Pune,Bangalore,736,6,Rain,0
+SpiceJet,Chennai,Hyderabad,507,17,Clear,0
+SpiceJet,Chennai,Hyderabad,507,14,Fog,0
+Vistara,Chennai,Mumbai,1033,2,Cloudy,0
+SpiceJet,Delhi,Pune,1155,19,Cloudy,0
+SpiceJet,Pune,Mumbai,124,0,Cloudy,0
+Vistara,Hyderabad,Chennai,507,3,Fog,0
+SpiceJet,Mumbai,Kolkata,1665,9,Clear,0
+Air India,Delhi,Bangalore,1732,10,Cloudy,0
+Indigo,Chennai,Kolkata,1385,8,Clear,0
+Vistara,Hyderabad,Mumbai,622,0,Rain,0
+Indigo,Mumbai,Hyderabad,622,2,Cloudy,0
+GoAir,Hyderabad,Bangalore,481,23,Clear,0
+Indigo,Bangalore,Hyderabad,481,21,Clear,0
+Vistara,Hyderabad,Delhi,1266,10,Rain,1
+Vistara,Chennai,Kolkata,1385,7,Fog,0
+Air India,Mumbai,Pune,124,11,Cloudy,0
+GoAir,Delhi,Hyderabad,1266,20,Rain,1
+SpiceJet,Kolkata,Chennai,1385,21,Cloudy,0
+Vistara,Bangalore,Delhi,1732,6,Clear,1
+Vistara,Kolkata,Hyderabad,1207,3,Rain,0
+Air India,Bangalore,Pune,736,0,Clear,0
+GoAir,Kolkata,Chennai,1385,21,Rain,1
+Indigo,Mumbai,Bangalore,846,9,Fog,1
+Vistara,Pune,Hyderabad,500,13,Fog,0
+Vistara,Hyderabad,Delhi,1266,17,Cloudy,0
+Vistara,Pune,Bangalore,736,17,Clear,1
+Indigo,Delhi,Kolkata,1312,6,Rain,1
+Air India,Kolkata,Mumbai,1665,14,Cloudy,0
+Air India,Pune,Bangalore,736,14,Rain,0
+SpiceJet,Pune,Bangalore,736,17,Fog,0
+SpiceJet,Mumbai,Bangalore,846,13,Rain,0
+GoAir,Bangalore,Kolkata,1572,22,Cloudy,0
+Air India,Mumbai,Delhi,1136,12,Fog,0
+GoAir,Pune,Mumbai,124,7,Clear,0
+Air India,Chennai,Delhi,1760,9,Cloudy,1
+GoAir,Bangalore,Mumbai,846,4,Fog,1
+Vistara,Bangalore,Chennai,279,22,Cloudy,0
+Vistara,Pune,Mumbai,124,20,Rain,0
+Indigo,Pune,Chennai,913,9,Clear,0
+Vistara,Pune,Chennai,913,19,Rain,0
+SpiceJet,Chennai,Hyderabad,507,19,Clear,0
+Air India,Pune,Delhi,1155,7,Rain,0
+Vistara,Chennai,Bangalore,279,1,Fog,1
+GoAir,Hyderabad,Bangalore,481,0,Rain,0
+GoAir,Mumbai,Delhi,1136,1,Cloudy,0
+Air India,Chennai,Bangalore,279,6,Clear,0
+Indigo,Pune,Kolkata,1577,13,Rain,0
+Air India,Bangalore,Mumbai,846,9,Cloudy,0
+Indigo,Delhi,Pune,1155,4,Fog,0
+Vistara,Hyderabad,Kolkata,1207,17,Rain,0
+Air India,Mumbai,Chennai,1033,2,Cloudy,0
+Air India,Bangalore,Mumbai,846,21,Fog,0
+SpiceJet,Chennai,Pune,913,7,Fog,0
+Vistara,Delhi,Pune,1155,6,Clear,0
+Air India,Hyderabad,Chennai,507,3,Cloudy,0
+Vistara,Pune,Bangalore,736,8,Cloudy,0
+Vistara,Delhi,Bangalore,1732,23,Cloudy,0
+Vistara,Mumbai,Delhi,1136,20,Clear,0
+Vistara,Delhi,Hyderabad,1266,18,Cloudy,0
+SpiceJet,Hyderabad,Kolkata,1207,1,Cloudy,0
+GoAir,Pune,Mumbai,124,0,Fog,0
+SpiceJet,Bangalore,Kolkata,1572,16,Clear,0
+Air India,Mumbai,Bangalore,846,0,Clear,0
+Indigo,Mumbai,Pune,124,9,Fog,0
+Indigo,Hyderabad,Chennai,507,17,Clear,0
+Air India,Pune,Hyderabad,500,16,Cloudy,0
+Air India,Hyderabad,Delhi,1266,2,Rain,1
+SpiceJet,Kolkata,Chennai,1385,0,Cloudy,0
+Vistara,Pune,Hyderabad,500,20,Clear,0
+Air India,Pune,Bangalore,736,16,Fog,0
+Air India,Mumbai,Delhi,1136,5,Rain,1
+Air India,Chennai,Kolkata,1385,20,Rain,0
+SpiceJet,Bangalore,Chennai,279,19,Rain,1
+Vistara,Kolkata,Mumbai,1665,5,Rain,1
+Vistara,Chennai,Delhi,1760,15,Rain,0
+Air India,Mumbai,Hyderabad,622,5,Fog,0
+Air India,Kolkata,Chennai,1385,6,Rain,0
+Vistara,Kolkata,Mumbai,1665,9,Cloudy,0
+Indigo,Pune,Delhi,1155,21,Cloudy,1
+Vistara,Bangalore,Pune,736,10,Cloudy,0
+GoAir,Hyderabad,Bangalore,481,23,Cloudy,0
+GoAir,Kolkata,Mumbai,1665,11,Clear,0
+GoAir,Mumbai,Hyderabad,622,5,Fog,0
+Vistara,Kolkata,Bangalore,1572,18,Clear,0
+SpiceJet,Pune,Hyderabad,500,8,Cloudy,0
+GoAir,Kolkata,Pune,1577,0,Cloudy,0
+GoAir,Pune,Delhi,1155,2,Clear,0
+Indigo,Kolkata,Pune,1577,18,Fog,1
+Indigo,Delhi,Hyderabad,1266,0,Fog,0
+GoAir,Bangalore,Mumbai,846,1,Cloudy,0
+GoAir,Bangalore,Kolkata,1572,2,Fog,0
+GoAir,Chennai,Hyderabad,507,13,Rain,0
+Vistara,Kolkata,Mumbai,1665,20,Fog,1
+GoAir,Chennai,Delhi,1760,22,Fog,1
+GoAir,Chennai,Hyderabad,507,2,Cloudy,0
+SpiceJet,Kolkata,Mumbai,1665,8,Rain,0
+GoAir,Hyderabad,Bangalore,481,17,Fog,1
+GoAir,Kolkata,Hyderabad,1207,12,Cloudy,0
+GoAir,Chennai,Pune,913,23,Rain,1
+Indigo,Pune,Kolkata,1577,9,Clear,0
+Indigo,Delhi,Mumbai,1136,9,Clear,0
+GoAir,Mumbai,Chennai,1033,14,Clear,0
+Vistara,Pune,Delhi,1155,3,Cloudy,0
+SpiceJet,Delhi,Chennai,1760,6,Clear,0
+Air India,Bangalore,Hyderabad,481,10,Cloudy,1
+SpiceJet,Delhi,Hyderabad,1266,5,Rain,0
+Indigo,Bangalore,Mumbai,846,4,Cloudy,0
+Air India,Mumbai,Delhi,1136,10,Fog,0
+GoAir,Delhi,Bangalore,1732,19,Clear,0
+GoAir,Pune,Kolkata,1577,2,Fog,0
+Indigo,Kolkata,Pune,1577,14,Rain,1
+Air India,Kolkata,Chennai,1385,0,Rain,0
+SpiceJet,Pune,Chennai,913,12,Rain,0
+GoAir,Hyderabad,Delhi,1266,5,Clear,0
+Air India,Mumbai,Bangalore,846,8,Rain,0
+GoAir,Pune,Kolkata,1577,9,Clear,0
+GoAir,Mumbai,Kolkata,1665,16,Cloudy,0
+GoAir,Chennai,Mumbai,1033,1,Clear,0
+Vistara,Mumbai,Chennai,1033,7,Fog,0
+SpiceJet,Mumbai,Hyderabad,622,16,Fog,0
+Air India,Bangalore,Delhi,1732,2,Clear,0
+SpiceJet,Pune,Hyderabad,500,20,Cloudy,0
+Air India,Kolkata,Hyderabad,1207,14,Rain,0
+SpiceJet,Pune,Delhi,1155,2,Clear,0
+Vistara,Hyderabad,Delhi,1266,23,Rain,0
+SpiceJet,Chennai,Delhi,1760,23,Clear,0
+Air India,Bangalore,Chennai,279,20,Clear,0
+Vistara,Chennai,Mumbai,1033,12,Cloudy,1
+Air India,Kolkata,Chennai,1385,11,Clear,0
+Vistara,Delhi,Pune,1155,5,Rain,0
+GoAir,Chennai,Hyderabad,507,9,Clear,0
+GoAir,Pune,Chennai,913,23,Clear,1
+Vistara,Chennai,Pune,913,22,Cloudy,1
+SpiceJet,Pune,Chennai,913,18,Rain,1
+Vistara,Bangalore,Pune,736,20,Rain,1
+GoAir,Kolkata,Pune,1577,15,Cloudy,1
+Vistara,Mumbai,Chennai,1033,21,Cloudy,0
+Indigo,Chennai,Delhi,1760,5,Rain,0
+Indigo,Kolkata,Bangalore,1572,16,Cloudy,0
+Air India,Kolkata,Delhi,1312,4,Rain,0
+Vistara,Pune,Mumbai,124,8,Clear,1
+GoAir,Pune,Delhi,1155,13,Fog,0
+Air India,Pune,Bangalore,736,6,Clear,1
+Air India,Hyderabad,Bangalore,481,18,Fog,1
+GoAir,Chennai,Pune,913,5,Fog,1
+GoAir,Pune,Chennai,913,18,Fog,1
+Air India,Bangalore,Pune,736,2,Cloudy,0
+Air India,Delhi,Mumbai,1136,17,Clear,0
+GoAir,Mumbai,Delhi,1136,22,Cloudy,0
+Indigo,Hyderabad,Pune,500,16,Cloudy,0
+Indigo,Kolkata,Chennai,1385,20,Fog,0
+GoAir,Chennai,Kolkata,1385,3,Clear,0
+SpiceJet,Mumbai,Chennai,1033,0,Cloudy,0
+SpiceJet,Kolkata,Chennai,1385,13,Fog,1
+GoAir,Pune,Bangalore,736,0,Fog,1
+Air India,Hyderabad,Chennai,507,13,Clear,0
+Air India,Chennai,Bangalore,279,2,Cloudy,0
+SpiceJet,Mumbai,Hyderabad,622,10,Cloudy,0
+Indigo,Bangalore,Chennai,279,10,Fog,1
+SpiceJet,Mumbai,Bangalore,846,2,Fog,1
+Indigo,Kolkata,Hyderabad,1207,2,Cloudy,1
+SpiceJet,Pune,Delhi,1155,0,Clear,0
+Vistara,Pune,Mumbai,124,16,Rain,1
+Air India,Chennai,Kolkata,1385,10,Clear,1
+Vistara,Kolkata,Pune,1577,18,Cloudy,0
+Indigo,Mumbai,Hyderabad,622,5,Rain,0
+Indigo,Kolkata,Mumbai,1665,5,Clear,0
+Indigo,Kolkata,Bangalore,1572,10,Rain,0
+Air India,Pune,Mumbai,124,21,Rain,1
+GoAir,Delhi,Pune,1155,23,Rain,0
+Indigo,Mumbai,Kolkata,1665,13,Rain,1
+Indigo,Mumbai,Bangalore,846,18,Clear,0
+GoAir,Pune,Chennai,913,2,Clear,0
+Indigo,Bangalore,Chennai,279,23,Clear,0
+Air India,Kolkata,Mumbai,1665,2,Rain,0
+Air India,Pune,Delhi,1155,4,Fog,1
+Vistara,Bangalore,Kolkata,1572,0,Cloudy,0
+Indigo,Kolkata,Bangalore,1572,12,Cloudy,0
+Indigo,Pune,Kolkata,1577,20,Fog,0
+GoAir,Bangalore,Chennai,279,10,Rain,1
+Vistara,Bangalore,Chennai,279,20,Clear,1
+Vistara,Mumbai,Kolkata,1665,7,Fog,0
+Indigo,Delhi,Mumbai,1136,1,Clear,0
+Indigo,Chennai,Bangalore,279,11,Rain,0
+Air India,Hyderabad,Pune,500,1,Rain,0
+Indigo,Pune,Kolkata,1577,16,Clear,0
+GoAir,Bangalore,Delhi,1732,15,Fog,0
+SpiceJet,Bangalore,Delhi,1732,6,Cloudy,0
+GoAir,Delhi,Bangalore,1732,15,Cloudy,0
+Vistara,Delhi,Chennai,1760,18,Fog,1
+GoAir,Mumbai,Delhi,1136,9,Fog,1
+Vistara,Pune,Mumbai,124,13,Fog,1
+Vistara,Mumbai,Kolkata,1665,16,Clear,0
+Vistara,Chennai,Hyderabad,507,1,Clear,0
+Vistara,Chennai,Delhi,1760,3,Clear,0
+Air India,Bangalore,Mumbai,846,22,Clear,1
+Indigo,Kolkata,Hyderabad,1207,9,Cloudy,0
+Vistara,Bangalore,Delhi,1732,17,Cloudy,0
+Vistara,Bangalore,Delhi,1732,23,Cloudy,1
+Air India,Mumbai,Bangalore,846,10,Fog,0
+Indigo,Kolkata,Hyderabad,1207,16,Fog,1
+GoAir,Mumbai,Bangalore,846,11,Cloudy,0
+SpiceJet,Bangalore,Pune,736,7,Fog,0
+Vistara,Bangalore,Pune,736,9,Cloudy,0
+SpiceJet,Kolkata,Hyderabad,1207,6,Rain,0
+GoAir,Hyderabad,Chennai,507,1,Clear,1
+Indigo,Mumbai,Pune,124,10,Fog,0
+Air India,Chennai,Pune,913,7,Cloudy,0
+SpiceJet,Delhi,Chennai,1760,4,Fog,1
+Indigo,Bangalore,Delhi,1732,23,Fog,1
+SpiceJet,Chennai,Kolkata,1385,2,Rain,0
+Indigo,Mumbai,Delhi,1136,1,Cloudy,0
+Indigo,Mumbai,Hyderabad,622,19,Cloudy,0
+Indigo,Bangalore,Hyderabad,481,12,Clear,0
+Air India,Chennai,Kolkata,1385,3,Fog,0
+GoAir,Chennai,Delhi,1760,10,Fog,0
+SpiceJet,Chennai,Mumbai,1033,12,Fog,1
+GoAir,Chennai,Kolkata,1385,19,Cloudy,0
+SpiceJet,Bangalore,Kolkata,1572,11,Fog,0
+Indigo,Hyderabad,Mumbai,622,12,Rain,1
+Air India,Delhi,Kolkata,1312,19,Rain,0
+Air India,Bangalore,Mumbai,846,20,Cloudy,0
+Vistara,Bangalore,Hyderabad,481,9,Cloudy,0
+SpiceJet,Chennai,Kolkata,1385,1,Cloudy,0
+Indigo,Delhi,Hyderabad,1266,18,Fog,0
+SpiceJet,Hyderabad,Pune,500,23,Fog,0
+Indigo,Hyderabad,Bangalore,481,9,Rain,0
+Air India,Pune,Chennai,913,22,Clear,0
+Indigo,Delhi,Bangalore,1732,6,Cloudy,0
+GoAir,Mumbai,Kolkata,1665,16,Cloudy,0
+Vistara,Delhi,Kolkata,1312,1,Rain,1
+GoAir,Hyderabad,Kolkata,1207,12,Rain,0
+SpiceJet,Mumbai,Kolkata,1665,16,Rain,0
+SpiceJet,Chennai,Bangalore,279,4,Clear,0
+GoAir,Pune,Kolkata,1577,5,Clear,0
+Vistara,Hyderabad,Pune,500,14,Rain,0
+GoAir,Chennai,Pune,913,4,Fog,0
+Air India,Delhi,Pune,1155,11,Fog,1
+Indigo,Mumbai,Hyderabad,622,0,Fog,1
+SpiceJet,Mumbai,Hyderabad,622,15,Clear,0
+SpiceJet,Bangalore,Kolkata,1572,4,Fog,1
+Air India,Pune,Chennai,913,16,Clear,0
+Indigo,Bangalore,Delhi,1732,17,Fog,1
+GoAir,Pune,Mumbai,124,0,Rain,0
+SpiceJet,Delhi,Pune,1155,3,Rain,0
+Air India,Delhi,Pune,1155,17,Clear,0
+Indigo,Delhi,Pune,1155,4,Fog,1
+Vistara,Delhi,Chennai,1760,6,Fog,1
+Air India,Bangalore,Mumbai,846,10,Clear,0
+Vistara,Hyderabad,Bangalore,481,6,Fog,0
+SpiceJet,Chennai,Mumbai,1033,10,Cloudy,0
+SpiceJet,Bangalore,Pune,736,5,Rain,0
+GoAir,Hyderabad,Pune,500,8,Fog,1
+Air India,Chennai,Delhi,1760,9,Cloudy,0
+Air India,Mumbai,Pune,124,6,Cloudy,1
+Vistara,Pune,Chennai,913,20,Rain,1
+Air India,Mumbai,Hyderabad,622,14,Rain,0
+Vistara,Delhi,Mumbai,1136,12,Clear,0
+GoAir,Bangalore,Pune,736,18,Clear,0
+Vistara,Pune,Bangalore,736,13,Rain,0
+Air India,Mumbai,Bangalore,846,4,Rain,0
+Air India,Chennai,Kolkata,1385,6,Fog,1
+GoAir,Mumbai,Chennai,1033,5,Cloudy,0
+Indigo,Delhi,Mumbai,1136,8,Fog,0
+SpiceJet,Bangalore,Pune,736,10,Fog,0
+Vistara,Mumbai,Hyderabad,622,7,Cloudy,0
+Indigo,Pune,Bangalore,736,11,Fog,0
+GoAir,Delhi,Hyderabad,1266,1,Clear,1
+Vistara,Chennai,Bangalore,279,9,Rain,1
+Indigo,Bangalore,Pune,736,0,Clear,0
+GoAir,Pune,Hyderabad,500,2,Fog,1
+SpiceJet,Bangalore,Hyderabad,481,23,Fog,0
+Vistara,Kolkata,Mumbai,1665,8,Cloudy,0
+Indigo,Delhi,Mumbai,1136,5,Cloudy,0
+SpiceJet,Delhi,Chennai,1760,9,Fog,1
+Indigo,Hyderabad,Mumbai,622,20,Fog,0
+Indigo,Pune,Kolkata,1577,14,Cloudy,1
+Air India,Kolkata,Chennai,1385,8,Fog,1
+Air India,Bangalore,Pune,736,22,Fog,0
+SpiceJet,Delhi,Chennai,1760,10,Cloudy,0
+SpiceJet,Kolkata,Mumbai,1665,20,Fog,1
+Indigo,Kolkata,Pune,1577,7,Fog,1
+SpiceJet,Kolkata,Hyderabad,1207,14,Rain,0
+SpiceJet,Kolkata,Delhi,1312,6,Cloudy,0
+SpiceJet,Hyderabad,Mumbai,622,14,Rain,0
+Indigo,Chennai,Pune,913,14,Cloudy,0
+Vistara,Mumbai,Pune,124,19,Rain,1
+SpiceJet,Bangalore,Pune,736,13,Rain,1
+Air India,Hyderabad,Pune,500,19,Cloudy,1
+Air India,Delhi,Pune,1155,4,Rain,0
+GoAir,Kolkata,Mumbai,1665,3,Cloudy,0
+GoAir,Bangalore,Hyderabad,481,15,Cloudy,0
+Indigo,Kolkata,Chennai,1385,11,Rain,1
+Indigo,Kolkata,Pune,1577,20,Fog,0
+Vistara,Kolkata,Mumbai,1665,20,Fog,1
+SpiceJet,Mumbai,Bangalore,846,11,Fog,0
+SpiceJet,Delhi,Kolkata,1312,12,Fog,0
+GoAir,Mumbai,Bangalore,846,23,Fog,0
+GoAir,Delhi,Pune,1155,15,Clear,0
+SpiceJet,Delhi,Pune,1155,21,Clear,1
+SpiceJet,Bangalore,Pune,736,1,Fog,0
+SpiceJet,Hyderabad,Kolkata,1207,19,Fog,0
+Indigo,Chennai,Delhi,1760,11,Fog,0
+Air India,Pune,Hyderabad,500,12,Clear,0
+Air India,Mumbai,Delhi,1136,2,Rain,0
+SpiceJet,Kolkata,Bangalore,1572,9,Fog,0
+SpiceJet,Kolkata,Mumbai,1665,23,Rain,0
+SpiceJet,Hyderabad,Bangalore,481,10,Clear,0
+Air India,Pune,Chennai,913,21,Fog,1
+GoAir,Kolkata,Hyderabad,1207,20,Rain,1
+Indigo,Mumbai,Hyderabad,622,13,Clear,0
+SpiceJet,Pune,Delhi,1155,23,Cloudy,1
+GoAir,Mumbai,Chennai,1033,22,Cloudy,1
+Air India,Delhi,Pune,1155,8,Rain,0
+Air India,Pune,Mumbai,124,8,Rain,1
+GoAir,Mumbai,Kolkata,1665,4,Cloudy,0
+SpiceJet,Delhi,Chennai,1760,10,Rain,1
+Vistara,Bangalore,Delhi,1732,22,Cloudy,0
+Air India,Pune,Mumbai,124,14,Cloudy,0
+Air India,Pune,Bangalore,736,11,Clear,0
+Air India,Hyderabad,Chennai,507,21,Fog,0
+Air India,Chennai,Hyderabad,507,11,Rain,1
+Air India,Pune,Hyderabad,500,4,Cloudy,0
+Vistara,Hyderabad,Delhi,1266,5,Fog,0
+Air India,Delhi,Kolkata,1312,15,Cloudy,0
+Air India,Pune,Mumbai,124,13,Rain,0
+SpiceJet,Mumbai,Delhi,1136,21,Rain,0
+Indigo,Bangalore,Pune,736,16,Cloudy,0
+Vistara,Hyderabad,Pune,500,3,Fog,1
+Vistara,Kolkata,Pune,1577,21,Fog,0
+Indigo,Kolkata,Mumbai,1665,19,Cloudy,0
+Air India,Pune,Mumbai,124,4,Cloudy,0
+SpiceJet,Hyderabad,Pune,500,20,Fog,0
+Indigo,Chennai,Kolkata,1385,2,Cloudy,0
+GoAir,Pune,Delhi,1155,4,Clear,0
+Vistara,Bangalore,Chennai,279,16,Fog,0
+GoAir,Chennai,Bangalore,279,1,Clear,0
+SpiceJet,Hyderabad,Kolkata,1207,4,Cloudy,0
+Indigo,Pune,Hyderabad,500,13,Fog,0
+Indigo,Mumbai,Hyderabad,622,19,Fog,1
+GoAir,Kolkata,Hyderabad,1207,23,Rain,0
+Indigo,Kolkata,Delhi,1312,5,Fog,0
+GoAir,Bangalore,Hyderabad,481,0,Cloudy,0
+SpiceJet,Mumbai,Pune,124,20,Clear,0
+Indigo,Mumbai,Chennai,1033,3,Cloudy,0
+SpiceJet,Hyderabad,Chennai,507,19,Clear,0
+SpiceJet,Chennai,Delhi,1760,4,Clear,0
+Indigo,Delhi,Mumbai,1136,2,Cloudy,0
+Vistara,Chennai,Mumbai,1033,14,Cloudy,0
+Indigo,Mumbai,Hyderabad,622,2,Clear,0
+Vistara,Chennai,Mumbai,1033,19,Clear,0
+Indigo,Chennai,Bangalore,279,5,Rain,1
+Indigo,Mumbai,Pune,124,7,Cloudy,0
+SpiceJet,Hyderabad,Bangalore,481,13,Cloudy,0
+Vistara,Kolkata,Mumbai,1665,22,Clear,0
+SpiceJet,Kolkata,Mumbai,1665,11,Rain,1
+SpiceJet,Chennai,Bangalore,279,3,Fog,0
+Air India,Kolkata,Delhi,1312,7,Clear,0
+Vistara,Delhi,Hyderabad,1266,1,Rain,0
+Air India,Hyderabad,Mumbai,622,8,Cloudy,0
+SpiceJet,Pune,Kolkata,1577,0,Cloudy,0
+Vistara,Chennai,Delhi,1760,5,Clear,0
+GoAir,Chennai,Hyderabad,507,17,Cloudy,0
+Vistara,Delhi,Chennai,1760,19,Clear,0
+Air India,Hyderabad,Kolkata,1207,2,Rain,0
+Air India,Delhi,Hyderabad,1266,8,Clear,0
+SpiceJet,Kolkata,Pune,1577,6,Cloudy,0
+Indigo,Kolkata,Delhi,1312,16,Rain,0
+SpiceJet,Chennai,Delhi,1760,18,Cloudy,0
+Indigo,Kolkata,Pune,1577,16,Fog,0
+Indigo,Pune,Delhi,1155,23,Rain,0
+SpiceJet,Kolkata,Pune,1577,18,Clear,0
+Indigo,Chennai,Kolkata,1385,9,Cloudy,0
+SpiceJet,Delhi,Bangalore,1732,15,Clear,0
+GoAir,Delhi,Kolkata,1312,13,Cloudy,0
+Air India,Hyderabad,Bangalore,481,18,Rain,0
+Air India,Mumbai,Delhi,1136,20,Cloudy,0
+Air India,Bangalore,Chennai,279,12,Cloudy,0
+Vistara,Delhi,Pune,1155,3,Rain,1
+Air India,Bangalore,Hyderabad,481,11,Cloudy,0
+Indigo,Chennai,Delhi,1760,5,Clear,0
+Indigo,Kolkata,Chennai,1385,4,Rain,1
+Air India,Chennai,Kolkata,1385,22,Clear,1
+SpiceJet,Pune,Mumbai,124,21,Clear,0
+Indigo,Delhi,Kolkata,1312,4,Fog,1
+Vistara,Pune,Bangalore,736,4,Clear,0
+Vistara,Kolkata,Pune,1577,4,Clear,0
+GoAir,Mumbai,Delhi,1136,23,Cloudy,0
+GoAir,Hyderabad,Mumbai,622,8,Rain,1
+Indigo,Hyderabad,Chennai,507,17,Fog,1
+GoAir,Kolkata,Mumbai,1665,0,Cloudy,0
+Air India,Kolkata,Mumbai,1665,0,Cloudy,0
+GoAir,Bangalore,Delhi,1732,0,Fog,1
+GoAir,Hyderabad,Mumbai,622,11,Fog,0
+GoAir,Mumbai,Kolkata,1665,6,Rain,0
+GoAir,Chennai,Pune,913,6,Rain,1
+Indigo,Chennai,Pune,913,7,Rain,0
+SpiceJet,Mumbai,Pune,124,16,Rain,1
+Indigo,Delhi,Bangalore,1732,3,Fog,0
+GoAir,Chennai,Bangalore,279,9,Fog,1
+Vistara,Hyderabad,Mumbai,622,10,Clear,0
+SpiceJet,Mumbai,Hyderabad,622,4,Cloudy,0
+Indigo,Bangalore,Hyderabad,481,10,Rain,0
+GoAir,Delhi,Pune,1155,0,Fog,0
+Vistara,Mumbai,Hyderabad,622,18,Clear,0
+SpiceJet,Mumbai,Hyderabad,622,7,Rain,1
+Indigo,Mumbai,Pune,124,8,Cloudy,0
+Indigo,Pune,Bangalore,736,22,Clear,0
